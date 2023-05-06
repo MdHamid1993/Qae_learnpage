@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-04T14:57:19 BDT" name="Default suite" finished-at="2023-05-04T14:58:06 BDT" duration-ms="46546">
+    <groups>
+    </groups>
+    <test started-at="2023-05-04T14:57:19 BDT" name="Default test" finished-at="2023-05-04T14:58:06 BDT" duration-ms="46546">
+      <class name="com.qaelearn_Test.Qaelearn_LoginTest">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.qaelearn_Test.Qaelearn_LoginTest@3bb9a3ff]" started-at="2023-05-04T14:57:19 BDT" name="init" finished-at="2023-05-04T14:57:35 BDT" duration-ms="15687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="signinpage()[pri:0, instance:com.qaelearn_Test.Qaelearn_LoginTest@3bb9a3ff]" started-at="2023-05-04T14:57:35 BDT" name="signinpage" finished-at="2023-05-04T14:58:06 BDT" duration-ms="30778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signinpage -->
+      </class> <!-- com.qaelearn_Test.Qaelearn_LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
